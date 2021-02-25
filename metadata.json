@@ -1,0 +1,10 @@
+{
+    "name" : "Unsplash Wallapper",
+    "description" : "Update wallpaper from unsplash regularly",
+    "shell-version" : [
+        "40"
+    ],
+    "url" : "https://github.com/KushagraKarira/gnome-shell-unsplash",
+    "uuid" : "kushagrakarira@gmail.com",
+    "version" : 21.02
+}
